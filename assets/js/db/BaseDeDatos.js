@@ -1,0 +1,17 @@
+const baseDeDatos = [
+    {id: 1, nombre: "Prisma", autor: "Belén Sancho", categoria: "juvenil", precio: 34000, descuento: 10, img: "Prisma.png", alt: "Prisma"},
+    {id: 2, nombre: "Corazones de cristal", autor: "Nini Ríos", categoria: "juvenil", precio: 24900, descuento: 20, img: "Corazones.png", alt: "Corazones de cristal"},
+    {id: 3, nombre: "¿Confirmamos? Un fake dating en directo", autor: "Agus Drimm Pitch", categoria: "juvenil", precio: 25500, descuento: 0, img: "Confirmamos.png", alt: "¿Confirmamos? Un fake dating en directo"},
+    {id: 4, nombre: "Un pacto electrizante", autor: "Malena Hehn", categoria: "juvenil", precio: 29700, descuento: 0, img: "Electrizante.png", alt: "Un pacto electrizante"},
+    {id: 5, nombre: "Retratos de instantes perfectos", autor: "Sol Chiara", categoria: "juvenil", precio: 33300, descuento: 30, img: "Retratos.png", alt: "Retratos de instantes perfectos"},
+    {id: 6, nombre: "Prisma", autor: "Belén Sancho", categoria: "juvenil", precio: 34000, descuento: 10, img: "Prisma.png", alt: "Prisma"},
+    {id: 7, nombre: "Corazones de cristal", autor: "Nini Ríos", categoria: "juvenil", precio: 24900, descuento: 20, img: "Corazones.png", alt: "Corazones de cristal"},
+    {id: 8, nombre: "¿Confirmamos? Un fake dating en directo", autor: "Agus Drimm Pitch", categoria: "juvenil", precio: 25500, descuento: 0, img: "Confirmamos.png", alt: "¿Confirmamos? Un fake dating en directo"},
+    {id: 9, nombre: "Un pacto electrizante", autor: "Malena Hehn", categoria: "juvenil", precio: 29700, descuento: 0, img: "Electrizante.png", alt: "Un pacto electrizante"},
+    {id: 10, nombre: "Retratos de instantes perfectos", autor: "Sol Chiara", categoria: "juvenil", precio: 33300, descuento: 30, img: "Retratos.png", alt: "Retratos de instantes perfectos"},
+    {id: 11, nombre: "Prisma", autor: "Belén Sancho", categoria: "juvenil", precio: 34000, descuento: 10, img: "Prisma.png", alt: "Prisma"},
+    {id: 12, nombre: "Corazones de cristal", autor: "Nini Ríos", categoria: "juvenil", precio: 24900, descuento: 20, img: "Corazones.png", alt: "Corazones de cristal"},
+    {id: 13, nombre: "¿Confirmamos? Un fake dating en directo", autor: "Agus Drimm Pitch", categoria: "juvenil", precio: 25500, descuento: 0, img: "Confirmamos.png", alt: "¿Confirmamos? Un fake dating en directo"},
+    {id: 14, nombre: "Un pacto electrizante", autor: "Malena Hehn", categoria: "juvenil", precio: 29700, descuento: 0, img: "Electrizante.png", alt: "Un pacto electrizante"},
+    {id: 15, nombre: "Retratos de instantes perfectos", autor: "Sol Chiara", categoria: "juvenil", precio: 33300, descuento: 30, img: "Retratos.png", alt: "Retratos de instantes perfectos"},
+];
